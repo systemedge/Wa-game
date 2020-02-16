@@ -1,4 +1,4 @@
-# Wa-game
+# Waż-game
 
 
 //MainWindow.java
