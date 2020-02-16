@@ -211,8 +211,8 @@ public class GameField extends JPanel implements ActionListener{
 
 //ważgame.iml
 
-<?xml version="1.0" encoding="UTF-8"?>
-<module type="JAVA_MODULE" version="4">
+.<?xml version="1.0" encoding="UTF-8"?>
+.<module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
